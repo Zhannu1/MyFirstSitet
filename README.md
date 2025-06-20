@@ -1,1 +1,19 @@
-# MyFirstSitet
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Менің алғашқы GitHub сайтым</title>
+
+</head>
+
+<body>
+
+<h1>Сәлем, әлем!</h1>
+
+<p>Бұл менің бірінші GitHub репозиторийім.</p>
+
+</body>
+
+</html>
